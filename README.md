@@ -7,6 +7,6 @@ hosting events and engaging audiences.
 ## Connect With Me
 - **GitHub**: [github.com/RajNandani31](https://github.com/RajNandani31)
 - **LinkedIn**: [linkedin.com/in/rajnandani31](https://linkedin.com/in/rajnandani31)
-- **Portfolio**: [https://rajnandani31.github.io/PORTFOLIO/](https://rajnandani31.github.io/PORTFOLIO/))
+- **Portfolio**: [https://rajnandani31.github.io/PORTFOLIO/](https://rajnandani31.github.io/PORTFOLIO/)
 - **Email**: nandaniraj514@gmail.com
 
