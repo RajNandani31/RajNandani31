@@ -5,8 +5,8 @@ passionate about building impactful tech solutions, solving challenging algorith
 hosting events and engaging audiences.
 
 ## Connect With Me
-- **GitHub**: [github.com/yourusername](https://github.com/RajNandani31)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/rajnandani31)
-- **Portfolio**: [yourportfolio.com](https://rajnandani31.github.io/PORTFOLIO/))
+- **GitHub**: [github.com/RajNandani31](https://github.com/RajNandani31)
+- **LinkedIn**: [linkedin.com/in/rajnandani31](https://linkedin.com/in/rajnandani31)
+- **Portfolio**: [https://rajnandani31.github.io/PORTFOLIO/](https://rajnandani31.github.io/PORTFOLIO/))
 - **Email**: nandaniraj514@gmail.com
 
